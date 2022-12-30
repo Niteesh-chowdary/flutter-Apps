@@ -1,8 +1,9 @@
 # World time App using world Time API
-## HOME SCREEN
-<img src="[https://camo.githubusercontent.com/...](https://user-images.githubusercontent.com/68719593/210036869-158f79dc-d45d-4f36-9e90-adb8d0209c99.png)" width="200" height="200" />
-
-![image](https://user-images.githubusercontent.com/68719593/210036869-158f79dc-d45d-4f36-9e90-adb8d0209c99.png =250x250)
+## HOME SCREEN - DAY TIME
+![image](https://user-images.githubusercontent.com/68719593/210036869-158f79dc-d45d-4f36-9e90-adb8d0209c99.png)
+<br>
+<br>
+## HOME SCREEN - NIGHT TIME
 ![image](https://user-images.githubusercontent.com/68719593/210035707-01f8a097-cb9d-41c9-b702-f0799602fdc2.png)
 <br>
 <br>
